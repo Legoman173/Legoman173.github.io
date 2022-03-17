@@ -1,1 +1,0 @@
-Files for scene sectors.
